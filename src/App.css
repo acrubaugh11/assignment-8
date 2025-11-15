@@ -1,18 +1,21 @@
 html, body {
   margin: 0;
   padding: 0;
-  height: 100%;
+  height: auto;
   width: 100%;
+  display: block;
+  background-color: white;
 }
 
 #main {
-  width: 100% !important;
+  width: 100%;
   min-height: 100vh;         
   display: flex;
   justify-content: center;     
   align-items: center;         
   padding: 20px;
-  background-color: #f4f4f4;
+  background-color: white;
+  color: black;
 }
 
 .app-wrapper {
