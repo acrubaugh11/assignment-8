@@ -1,0 +1,22 @@
+.computerthrow-container {
+  text-align: center;
+}
+
+.computerthrow-title {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.computerthrow-display {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.computerthrow-img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  border-radius: 12px;
+}

@@ -1,0 +1,36 @@
+.playerthrow-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.playerthrow-title {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.playerthrow-choices {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.playerthrow-btn {
+  background: none;
+  border: 3px solid transparent;
+  padding: 5px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.playerthrow-btn:hover {
+  transform: scale(1.05);
+}
+
+.playerthrow-img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+}
+

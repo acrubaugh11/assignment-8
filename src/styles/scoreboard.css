@@ -1,0 +1,14 @@
+.scoreboard-container {
+  margin-top: 30px;
+  text-align: center;
+  border: 2px solid black;
+  padding: 15px 25px;
+  border-radius: 10px;
+  background-color: #fafafa;
+  width: 220px;
+}
+
+.scoreboard-scores p {
+  margin: 5px 0;
+  font-size: 1.2rem;
+}
